@@ -8,6 +8,8 @@
 // @icon         https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.4.min.js
+// @source       https://github.com/dweltstorm/tampermonkey-scripts/blob/main/ask-ai/
+// @updateURL    https://github.com/dweltstorm/tampermonkey-scripts/blob/main/ask-ai/script.user.js
 // @downloadURL  https://github.com/dweltstorm/tampermonkey-scripts/blob/main/ask-ai/script.user.js
 // ==/UserScript==
 /* global $ */
