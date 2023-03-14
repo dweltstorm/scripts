@@ -10,7 +10,7 @@ Adds a keyboard shortcut to a window where you can ask an AI questions.
 <!-- end of the list -->
 Click this button:
 <br></br>
-<img src='https://github.com/dweltstorm/tampermonkey-scripts/blob/main/resources/install-script.png?raw=true' width=25% href='https://www.google.com'>
+<img src='./resources/install-script.png?raw=true' width=25% href='https://www.google.com'>
 
 On the page that opens up, click install. The script is now running and ready to use.
 ## How to use
