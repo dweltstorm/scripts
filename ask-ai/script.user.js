@@ -31,7 +31,7 @@ async function gpt3(prompt, callback) {
             max_tokens: 1000,
             n: 1,
         }),
-        success: (data) => {callback(data.choices[0].message.content)}
+        success: (data) => {callback(data.choices[0].message.content)},
         error: (xhr) => callback(xhr.responseText)
     });
 }
