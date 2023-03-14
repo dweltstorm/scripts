@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Ask AI
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3.1
 // @description  A script to help you on tests (Ctrl + Alt + A to open)
 // @author       dweltstorm
 // @match        https://lms.lausd.net/*
 // @icon         https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.4.min.js
+// @downloadURL  https://github.com/dweltstorm/tampermonkey-scripts/blob/main/ask-ai/script.user.js
 // ==/UserScript==
 /* global $ */
 
