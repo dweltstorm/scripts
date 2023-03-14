@@ -1,4 +1,4 @@
-# Fake kiosk
+# Fake Kiosk
 Adds a navbar to the top of the screen to make it look like you're in the kiosk
 
 ## How to install
