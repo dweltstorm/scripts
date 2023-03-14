@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ask AI
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  A script to help you on tests (Ctrl + Alt + A to open)
 // @author       dweltstorm
 // @match        https://lms.lausd.net/*
@@ -11,7 +11,7 @@
 // ==/UserScript==
 /* global $ */
 
-const api_key = "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";
+const api_key = "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";
 async function gpt3(prompt, callback) {
     $.ajax({
         url: 'https://api.openai.com/v1/chat/completions',
