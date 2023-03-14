@@ -66,7 +66,7 @@ $('.askmenu').css({
     'height': '400px',
     'width': '350px',
     'border-radius': '10px',
-    "z-index": "999999"
+    "z-index": "999998"
 });
 
 $('.askmenu h2').css({
