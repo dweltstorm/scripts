@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ask AI
 // @namespace    http://tampermonkey.net/
-// @version      1.3.1
+// @version      1.3.2
 // @description  A script to help you on tests (Ctrl + Alt + A to open)
 // @author       dweltstorm
 // @match        https://lms.lausd.net/*
@@ -32,6 +32,7 @@ async function gpt3(prompt, callback) {
             n: 1,
         }),
         success: (data) => {callback(data.choices[0].message.content)}
+        error: (xhr) => callback(xhr.responseText)
     });
 }
 
