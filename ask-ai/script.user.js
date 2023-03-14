@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Ask AI
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.0
+// @description  A script to help you on tests (Ctrl + Alt + A to open)
 // @author       dweltstorm
 // @match        https://lms.lausd.net/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=lausd.net
+// @icon         https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.4.min.js
 // ==/UserScript==
@@ -112,8 +112,4 @@ $('.askmenu p').css({
     "width": "80%",
     "padding": "5%"
 });
-
-
-
-
 
