@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fake Kiosk
 // @namespace    http://tampermonkey.net/
-// @version      1
+// @version      1.1
 // @description  Adds a navbar to the top of the screen to make it look like you're in the kiosk
 // @author       You
 // @match        https://*/*
