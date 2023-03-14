@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ask AI
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1
 // @description  A script to help you on tests (Ctrl + Alt + A to open)
 // @author       dweltstorm
 // @match        https://lms.lausd.net/*
