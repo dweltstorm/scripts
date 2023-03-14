@@ -10,8 +10,9 @@ Adds a keyboard shortcut to a window where you can ask an AI questions.
 <!-- end of the list -->
 Click this button:
 <br></br>
-[<img src='../resources/install-script.png?raw=true' width=25%'>](https://google.com)
-[![install-script](../resources/install-script.png?raw=true)]((https://google.com))
+
+[<img src="../resources/install-script">](http://google.com/)
+
 On the page that opens up, click install. The script is now running and ready to use.
 ## How to use
 On schoology, press Ctrl + Alt + A to open up the ask window <br></br>
