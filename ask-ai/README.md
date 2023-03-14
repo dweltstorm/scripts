@@ -11,7 +11,7 @@ Adds a keyboard shortcut to a window where you can ask an AI questions.
 Click this button:
 <br></br>
 
-[<img src="../resources/install-script">](http://google.com/)
+[<img src="../resources/install-script.png">](http://google.com/)
 
 On the page that opens up, click install. The script is now running and ready to use.
 ## How to use
