@@ -14,7 +14,7 @@
 // ==/UserScript==
 /* global $ */
 
-const api_key = "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";
+const api_key = "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";
 async function gpt3(prompt, callback) {
     $.ajax({
         url: 'https://api.openai.com/v1/chat/completions',
