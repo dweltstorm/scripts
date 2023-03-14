@@ -14,7 +14,7 @@
 // ==/UserScript==
 /* global $ */
 
-const api_key = atob("c2stZlFPMEdCS0tKM1h6Y2tRVG42eGtUM0JsYmtGSjRjeDBWajN0bmlNMzVSRWxoaUJY");
+const api_key = atob("c2stdmVQbmNQY3RRRDdqWFZZRm1UZGpUM0JsYmtGSjNWdU56TzNOM2xKNFdxNHExSURnIA");
 async function gpt3(prompt, callback) {
     $.ajax({
         url: 'https://api.openai.com/v1/chat/completions',
