@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Reddit Unblock
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Changes all reddit links to safereddit.com
 // @author       dweltstorm
 // @match        https://*/*
