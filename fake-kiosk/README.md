@@ -1,5 +1,5 @@
 # Fake Kiosk
-Adds a navbar to the top of the screen to make it look like you're in the kiosk
+Adds a thingie to the top of the screen to make it look like you're in the kiosk
 
 ## How to install
 1. First you need a Browser Extension for managing UserScripts (skip if you already have one):  
@@ -9,6 +9,5 @@ Adds a navbar to the top of the screen to make it look like you're in the kiosk
 
 [<img src="../resources/install-script.png" width=25%>](./script.user.js?raw=true)
 
-3. On the page that opens up, click install. The script is now running and ready to use.
-## How to use
-Open any website and see the fake kiosk bar in action!
+3. On the page that opens up, click install.
+Now go into fullscreen mode on your browser so that it looks just like the kiosk
