@@ -1,6 +1,5 @@
-# Fake Kiosk
-Adds a thingie to the top of the screen to make it look like you're in the kiosk
-
+# Kwan Serializer
+Lets you easily export and import answers for kwan homework
 ## How to install
 1. First you need a Browser Extension for managing UserScripts (skip if you already have one):  
 * Chrome: [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)  or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
@@ -10,4 +9,7 @@ Adds a thingie to the top of the screen to make it look like you're in the kiosk
 [<img src="../resources/install-script.png" width=25%>](./script.user.js?raw=true)
 
 3. On the page that opens up, click install.
-Now go into fullscreen mode on your browser so that it looks just like the kiosk
+
+## Exporting
+
+## Importing
