@@ -25,10 +25,15 @@ function compressAnswers() {
 }
 
 function decompressAnswers(answers) {
-  return LZString.decompress(answers).split('𓀴');
+  string = LZString.decompress(answers);
+  if(!string.includes("𓀴")) {
+    alert("Invalid answer string");
+    return '';
+  }
+  else return LZString.decompress(answers).split('𓀴');
 }
 
-
+//test
 var copyButton = $("<a>").addClass("navbtn link-btn sExtlink-processed").text("Copy Answers").on("click", e => GM_setClipboard(compressAnswers()))
 var pasteButton = $("<button>").text("Paste Answers").on("click", e => {
   var answers = decompressAnswers(prompt("Enter your answer string"));
