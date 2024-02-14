@@ -4,7 +4,7 @@
 // @match       https://lms.lausd.net/assignment/*/assessment_view/*
 // @match       https://lms.lausd.net/assignment/*/assessment
 // @grant       GM_setClipboard
-// @version     1.1
+// @version     1.0
 // @author      dweltstorm
 // @description Lets you easily export and import answers for kwan homework
 // @require     https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.5.0/lz-string.min.js
@@ -33,7 +33,6 @@ function decompressAnswers(answers) {
   else return LZString.decompress(answers).split('𓀴');
 }
 
-//test
 var copyButton = $("<a>").addClass("navbtn link-btn sExtlink-processed").text("Copy Answers").on("click", e => GM_setClipboard(compressAnswers()))
 var pasteButton = $("<button>").text("Paste Answers").on("click", e => {
   var answers = decompressAnswers(prompt("Enter your answer string"));
