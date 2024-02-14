@@ -4,7 +4,7 @@
 // @match       https://lms.lausd.net/assignment/*/assessment_view/*
 // @match       https://lms.lausd.net/assignment/*/assessment
 // @grant       GM_setClipboard
-// @version     1.0
+// @version     1.1
 // @author      dweltstorm
 // @description Lets you easily export and import answers for kwan homework
 // @require     https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.5.0/lz-string.min.js
