@@ -6,7 +6,7 @@ Lets you easily export and import answers for kwan homework
 * FireFox: [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/), [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), or [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 2. Click this button:
 
-[<img src="../resources/install-script.png" width=25%>](./script.user.js?raw=true)
+[<img src="../resources/install-script.png" width=25%>](https://github.com/dweltstorm/scripts/blob/main/kwan-serializer/script.user.js)
 
 3. On the page that opens up, click install.
 
