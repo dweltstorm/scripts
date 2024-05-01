@@ -1,3 +1,3 @@
 [Fake Kiosk](/fake-kiosk/README.md)
 
-[Kwan Serializer](/kwan-serializer/README.md)
+[Chem Serializer](/chem-serializer/README.md)
