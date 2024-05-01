@@ -17,7 +17,7 @@
 
 
 function getAnswers() {
-  return Array.from($(".text-blank-spot.selected")).map(el => Array.from(el.classList).includes('incorrect')?'':el.outerText.replace('\nCorrect',''));
+  return Array.from($(".text-blank-spot.selected")).map(el => Array.from(el.classList).includes('incorrect')?'':el.outerText.replace('\nCorrect.',''));
 }
 
 function compressAnswers() {
