@@ -9,8 +9,8 @@
 // @description Lets you easily export and import answers for chem homework
 // @require     https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.5.0/lz-string.min.js
 // @require     https://code.jquery.com/jquery-3.7.1.js
-// @downloadURL https://github.com/dweltstorm/scripts/raw/main/kwan-serializer/script.user.js
-// @updateURL   https://github.com/dweltstorm/scripts/raw/main/kwan-serializer/script.user.js
+// @downloadURL https://github.com/dweltstorm/scripts/raw/main/chem-serializer/script.user.js
+// @updateURL   https://github.com/dweltstorm/scripts/raw/main/chem-serializer/script.user.js
 // ==/UserScript==
 /*globals $*/
 
